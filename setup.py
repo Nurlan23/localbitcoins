@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name="localbitcoins-lib",
+    name="localbitcoins",
     version="1.0",
     packages=["localbitcoins"],
     url="https://github.com/yarfuo/localbitcoins-lib",
