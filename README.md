@@ -1,4 +1,10 @@
-#### Simple LocalBitcoins API wrapper
+## Simple LocalBitcoins API wrapper
+![Code style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)
+![PyPI - License](https://img.shields.io/pypi/l/localbitcoins.svg)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/localbitcoins.svg)
+![PyPI - Status](https://img.shields.io/pypi/status/localbitcoins.svg)
+![PyPI](https://img.shields.io/pypi/v/localbitcoins.svg)
+
 
 Without words, I'll get to the point.
 
